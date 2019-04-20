@@ -1,0 +1,6 @@
+$mainblue:#2ff6672;
+
+.btn{
+    background-color: $mainblue;
+    color: white;
+}
